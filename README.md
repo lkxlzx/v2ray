@@ -3,6 +3,9 @@
 
 安装方法
 git clone https://github.com/lkxlzx/v2ray
+
 cd v2ray
+
 chmod +x install.sh
+
 ./install.sh local
